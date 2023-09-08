@@ -1,0 +1,210 @@
+  .h1font {
+    /* başlık fontu */
+    font-family: "Cedarville Cursive", cursive;
+    color: white;
+    text-shadow: 2px 2px black;
+  }
+
+  .h2font {
+    font-family: 'Alkatra', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+  }
+
+  a{
+    color: black;
+  }
+
+  .navbar-dark{
+    padding: 0px 0;
+  }
+
+  #y{ background-image: linear-gradient(red, yellow);
+  }
+
+  
+
+  #a0{
+    /* navbar imaj */
+    background-image: linear-gradient(red, yellow);
+  }
+
+  #a1{
+    /* navbar başlık */
+    color: white;
+  }
+
+  #offcanvasNavbar{
+    width: 22%;
+    background-image: linear-gradient(red, yellow);
+    font-weight: bold;
+  }
+
+  #a2{
+    /* yan barın headarı */
+    background-color: black;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bold;
+  }
+
+  #offcanvasNavbarLabel{
+    font-family: Cedarville Cursive;
+    font-size: xx-large;
+    text-align: center;
+  }
+
+  #carouselExampleCaptions{
+    margin-top: 105px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    border:15px solid white;
+    border-radius: 40px;
+  }
+
+  .d-block w-100{
+    border-radius: 30px
+  }
+
+  #none{
+    color: white; text-decoration: none
+  }
+
+  .card{
+    width: 18rem; 
+    border: 20px solid white; 
+    border-radius: 30px
+  }
+
+  .card-img-top{
+    border: 5px solid black; 
+    border-radius: 30px
+  }
+
+  .card-title{
+    text-align: center;
+    cursor: default;
+    color: black;
+    text-decoration: none;
+  }
+
+  #a3{
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+
+  #a4{
+    text-align: center;
+    text-decoration: none;
+  }
+
+  #a5 {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .card-link{
+    color: red;
+    text-decoration: none;
+  }
+
+  .card-body{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  #a6{
+    margin-left: 15px; 
+    margin-right: 15px; 
+    background-color: black
+  }
+
+  .col-md-6{
+    max-width: 650px;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 10px;
+
+  }
+
+  #a7{
+    background-image: linear-gradient(red, yellow)
+  }
+
+  #a8{
+    margin-left: 30px; 
+    margin-right: 30px
+  }
+
+  #a9{
+    width: fit-content;
+  }
+
+  #a10{
+    margin-left: 30px; 
+    margin-right: 30px;
+    width: auto;
+    background-color: black;
+    border: 0;
+    
+  }
+
+  #a11{
+    width: fit-content;
+    margin-left: 15px;
+    background-image: linear-gradient(to right, #decba4, grey);
+    background-image: linear-gradient(red, yellow);
+    border: 3px solid white;
+    border-radius: 10px;
+    justify-content: center;
+    font-style: italic;
+    text-align: left;
+    padding: 25px;
+    margin-top: 50px;
+  }
+
+  #a12{
+    padding: 30px;
+  }
+
+  #a13{
+    width: 1000px;
+    height: 575px;
+    background-color: skyblue;
+    position: relative;
+    margin: auto;
+    border: 13px solid white;
+    border-radius: 40px;
+    margin-bottom: 200px;
+  }
+
+  #a14{
+
+    background-color:black;
+    opacity:0.2;
+    width: 600px;
+    height: 200px;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -100px;
+    border-radius: 40px;
+  }
+
+  #a14:hover{
+    opacity: 1;
+  }
+
+  .carousel-inner{
+    border-radius: 30px;
+  }
+  .carousel-item{
+    border-radius:30px;
+  }
+  #col-4{
+    border-radius: 30px;
+  }
