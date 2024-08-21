@@ -1,5 +1,5 @@
-//en
-# RHCP
+# English
+## RHCP
 ***This project is an example of a beginner-level website for the music group Red Hot Chili Peppers.***
 
 ### Programming Languages ​​I Use:
@@ -9,8 +9,8 @@
 
 > The texts in the program are in Turkish.
 
-//tr
-# RHCP
+# Türkçe
+## RHCP
 ***Bu proje, Red Hot Chili Peppers isimli müzik gurubunun başlangıç seviyede internet sitesi örneğidir.*** 
     
 ### Kullanılan Diller:
